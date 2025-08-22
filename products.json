@@ -59,6 +59,18 @@
         "46"
       ],
       "category": "????? ???"
+    },
+    {
+      "name": "????? ???",
+      "originalPrice": 4000,
+      "price": 2000,
+      "images": [
+        "https://codedzimg.aalfastore1.workers.dev/3127cd84-a5b7-48c1-80d7-8738f1763b13"
+      ],
+      "description": "?????",
+      "colors": [],
+      "sizes": [],
+      "category": "????? ???"
     }
   ],
   "categories": [
