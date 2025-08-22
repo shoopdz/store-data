@@ -1,21 +1,21 @@
 {
   "products": [
     {
-      "name": "????? ???",
+      "name": "ossama",
       "originalPrice": 380,
       "price": 340,
       "images": [
         "https://codedzimg.aalfastore1.workers.dev/7e5ab643-6983-4c13-a25a-2e865b64ae02"
       ],
-      "description": "??????",
+      "description": "ossama",
       "colors": [],
       "sizes": [],
-      "category": "????? ???"
+      "category": "ossama"
     }
   ],
   "categories": [
     {
-      "name": "????? ???",
+      "name": "ossama",
       "image": "https://ucarecdn.com/0dfd1438-51bb-4e2b-8a8b-595306513579/"
     }
   ],
