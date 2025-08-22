@@ -1,24 +1,6 @@
 {
-  "products": [
-    {
-      "name": "????? ???",
-      "originalPrice": 340,
-      "price": 300,
-      "images": [
-        "https://codedzimg.aalfastore1.workers.dev/60109da1-7fee-450d-a620-7032fae0d20c"
-      ],
-      "description": "?????????",
-      "colors": [],
-      "sizes": [],
-      "category": "????? ???"
-    }
-  ],
-  "categories": [
-    {
-      "name": "????? ???",
-      "image": "https://ucarecdn.com/fedbd6e3-4140-492b-8606-7fcdd408249d/"
-    }
-  ],
+  "products": [],
+  "categories": [],
   "facebookPixel": "",
   "source": "github+drive"
 }
