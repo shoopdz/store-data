@@ -1,6 +1,11 @@
 {
   "products": [],
-  "categories": [],
+  "categories": [
+    {
+      "name": "????? ???",
+      "image": "https://ucarecdn.com/0dfd1438-51bb-4e2b-8a8b-595306513579/"
+    }
+  ],
   "facebookPixel": "",
   "source": "github+drive"
 }
