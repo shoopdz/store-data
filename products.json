@@ -1,5 +1,18 @@
 {
-  "products": [],
+  "products": [
+    {
+      "name": "????? ???",
+      "originalPrice": 380,
+      "price": 340,
+      "images": [
+        "https://codedzimg.aalfastore1.workers.dev/7e5ab643-6983-4c13-a25a-2e865b64ae02"
+      ],
+      "description": "??????",
+      "colors": [],
+      "sizes": [],
+      "category": "????? ???"
+    }
+  ],
   "categories": [
     {
       "name": "????? ???",
